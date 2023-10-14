@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1697118550 source:c:\users\dasao\onedrive\documentos\c uni\proyecto\parcial\main.c
+	<stdio.h>
+	"Funciones.h"
+
+1697118394 c:\users\dasao\onedrive\documentos\c uni\proyecto\parcial\funciones.h
+
+1697093503 source:c:\users\dasao\onedrive\documentos\c uni\proyecto\parcial\mapa-1.c
+	<stdio.h>
+
+1697094705 source:c:\users\dasao\onedrive\documentos\c uni\proyecto\parcial\mapa-2.c
+	<stdio.h>
+
+1697118539 source:c:\users\dasao\onedrive\documentos\c uni\proyecto\parcial\mapa-3.c
+	<stdio.h>
+
