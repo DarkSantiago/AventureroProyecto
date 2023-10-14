@@ -13,7 +13,7 @@ int main()
     }
     for(i = ; i < 40; i++)
     {
-        Matriz[0][i]
+        Matriz[0][i];
     }
 
 
